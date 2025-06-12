@@ -1,44 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>NpowerGroup 5 </title>
-<style>
-body {
-font-family: 'Segoe UI', sans-serif;
-padding: 40px;
-background: #fffdf7;
-color: #333;
-}
-h1, h2 {
-color: #2c3e50;
-}
-.project {
-border-bottom: 1px solid #ccc;
-padding-bottom: 10px;
-margin-bottom: 10px;
-}
-</style>
+  <meta charset="UTF-8">
+  <title>Weather App 🌦️</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Npower Group5 Team</h1>
-<p>Full Stack Developer | GitHub: <a href="https://github.com/Npowergroup5">npowergroup5</a></p>
-
-<h2>About Me</h2>
-<p>I create web apps and solve coding problems with C++, JavaScript, and Python.</p>
-
-<h2>Projects</h2>
-<div class="project">
-<strong>Weather App</strong><br>
-Built a weather app using natural language processing.<br>
-<a href="https://github.com/Npowergroup5/Weather-App">GitHub Repo</a>
-</div>
-<div class="project">
-<strong>Mood App</strong><br>
-Web app using JS to help users track heir moods.<br>
-<a href="https://github.com/Npowergroup5/Moodify">GitHub Repo</a>
-</div>
-
-<h2>Contact</h2>
-<p>Email: Npowergroup5@Npower.com</p>
+  <div class="weather-container">
+    <h1>Check the Weather</h1>
+    <select id="city-select">
+      <option value="">-- Select a City --</option>
+      <option value="Toronto">Toronto</option>
+      <option value="New York">New York</option>
+      <option value="London">London</option>
+      <option value="Paris">Paris</option>
+      <option value="Tokyo">Tokyo</option>
+    </select>
+    <div id="weather-result"></div>
+  </div>
+  <script src="script.js"></script>
 </body>
 </html>

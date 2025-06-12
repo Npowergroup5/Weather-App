@@ -1,11 +1,11 @@
-# Weather-App
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Weather App</title>
-</head>
-<body>
-  <h1>Simple Weather App</h1>
-  <p>This is a demo project to display current weather using OpenWeatherMap API.</p>
-</body>
-</html>
+# 🌤️ Weather App
+
+A simple weather app that shows real-time weather based on user location.
+
+**Tech Stack**: HTML, CSS, JavaScript, OpenWeatherMap API
+
+**Features**:
+- Get current temperature
+- Location-based forecast
+
+🔗 [Live Demo](https://yourusername.github.io/weather-app)

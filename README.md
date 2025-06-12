@@ -1,8 +1,8 @@
 # 🌤️ Weather App
 
-A simple weather app that shows real-time weather based on user location.
+A simple weather app that shows real-time weather based on user location. (for demo the data is fake)
 
-**Tech Stack**: HTML, CSS, JavaScript, OpenWeatherMap API
+**Tech Stack**: HTML, CSS, JavaScript
 
 **Features**:
 - Get current temperature

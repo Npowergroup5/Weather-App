@@ -1,5 +1,4 @@
 # Weather-App
-an app to forecast weather
 <!DOCTYPE html>
 <html>
 <head>

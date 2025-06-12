@@ -8,4 +8,4 @@ A simple weather app that shows real-time weather based on user location.
 - Get current temperature
 - Location-based forecast
 
-🔗 [Live Demo](https://yourusername.github.io/weather-app)
+🔗 [Live Demo](https://Npowergroup5.github.io/weather-app)
